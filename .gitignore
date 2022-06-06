@@ -1,4 +1,5 @@
 
 qlib/mlruns/*
-qlib/TS-LSTM/cnn_export/*
-qlib/TS-LSTM/lstm_export/*
+TS-LSTM/cnn_export/*
+TS-LSTM/lstm_export/*
+
