@@ -6,7 +6,7 @@
 
 |Link                           |Source                       |Details
 |-------------------------------|-----------------------------|------------------------------
-|[AI4Finance-Foundation_FinRL](/Learning-ML-for-trading/blob/main/AI4Finance-Foundation_FinRL/FinRL_StockTrading_NeurIPS_2018.ipynb)            |'Isn't this fun?'            |
+|[AI4Finance-Foundation_FinRL](/AI4Finance-Foundation_FinRL/FinRL_StockTrading_NeurIPS_2018.ipynb)            |'Isn't this fun?'            |
 
 
 `'Isn't this fun?'` 
