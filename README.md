@@ -6,7 +6,7 @@
 
 |Link                           |Source                       |Details
 |-------------------------------|-----------------------------|------------------------------
-|`'Isn't this fun?'`            |'Isn't this fun?'            |
+|[AI4Finance-Foundation_FinRL](/Learning-ML-for-trading/blob/main/AI4Finance-Foundation_FinRL/FinRL_StockTrading_NeurIPS_2018.ipynb)            |'Isn't this fun?'            |
 
 
 `'Isn't this fun?'` 
@@ -19,3 +19,6 @@
 |Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
+
+
+https://github.com/AndreyRzhaksinskiy/Learning-ML-for-trading/blob/main/AI4Finance-Foundation_FinRL/FinRL_StockTrading_NeurIPS_2018.ipynb
