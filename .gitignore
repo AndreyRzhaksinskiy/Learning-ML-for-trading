@@ -4,3 +4,4 @@ TS-LSTM/cnn_export/*
 TS-LSTM/lstm_export/*
 .ipynb_checkpoints
 
+*.bak
